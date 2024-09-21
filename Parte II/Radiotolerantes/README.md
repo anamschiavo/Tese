@@ -14,7 +14,7 @@ Esse script tem como output diversos gráficos de sobrevivência x fluência ass
 # Validação de método
 Nesse trabalho foi realizada a irradiação em meio sólido. Como a literatura utiliza principalmente irradiação em líquido, foram realizados experimentos com a bactéria radiotolerante *Deinococcus radiodurans* para validar os dados obtidos.
 
-##deira.tsv
+## deira.tsv
 Esse arquivo contém os dados brutos de contagem de colônia da *D. radiodurans* em diversas fluências (no arquivo chamada de *dose*) em meio líquido e meio sólido.
 
 ## deira_methods.R
